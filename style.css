@@ -25,3 +25,7 @@ button:hover {
 .senha {
     border: 2px solid blue;
 }
+
+.container > div:first-of-type > p {
+    color: red;
+}
