@@ -25,3 +25,7 @@ button:hover {
 .container > div:first-of-type > p {
     color: red;
 }
+
+li:first-child {
+    font-weight: bold;
+}
