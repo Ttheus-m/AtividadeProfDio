@@ -13,3 +13,7 @@ p {
 .destaque {
     background-color: yellow;
 }
+
+button:hover {
+    background-color: red;
+}
