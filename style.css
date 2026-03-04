@@ -9,3 +9,7 @@ p {
 .destaque {
     background-color: yellow;
 }
+
+.senha {
+    border: 2px solid blue;
+}
