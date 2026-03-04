@@ -4,6 +4,10 @@ h1 {
 
 p {
     font-family: Arial, Helvetica, sans-serif;
+
+    &::first-letter {
+        font-size: 20px;
+    }
 }
 
 .importante {
