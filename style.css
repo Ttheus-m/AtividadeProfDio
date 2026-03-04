@@ -14,6 +14,10 @@ p {
     background-color: yellow;
 }
 
+button:hover {
+    background-color: red;
+}
+
 .senha {
     border: 2px solid blue;
 }
